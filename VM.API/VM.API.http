@@ -1,0 +1,6 @@
+@VM.API_HostAddress = http://localhost:5073
+
+GET {{VM.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
